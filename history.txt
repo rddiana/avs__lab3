@@ -1,0 +1,15 @@
+*   20456f9 merge feature2 в main
+|\  
+| * 6d230ed feature2 change
+* |   e9d5fa3 merge feature1 в main
+|\ \  
+| * | 575902e feature1 change
+| |/  
+* / da11443 Добавлена строка кронва после отката к 3-му коммиту
+|/  
+* 01b5eb1 add config.txt 5
+* f7cb0e2 add config.txt 4
+* 3219b96 add config.txt 3
+* e51a9fe add config.txt 2
+* b857c46 add config.txt 1
+* bb98d27 init
